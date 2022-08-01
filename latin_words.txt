@@ -12,9 +12,11 @@ amicula
 amores
 anno
 apuleii
+apuleius
 artibus
 asino
 asinum
+ass
 atque
 attinere
 aucun
@@ -23,6 +25,7 @@ aurora
 beati
 beroaldi
 blaterantem
+books
 boves
 brulinus
 caelum
@@ -77,6 +80,8 @@ foenum
 futurum
 germinent
 glebosa
+golden
+grecia
 haec
 homine
 hominem
@@ -91,7 +96,7 @@ inopinata
 insolitum
 insperata
 intempesta
-intende
+intend
 isto
 istum
 jam
@@ -108,6 +113,7 @@ lector
 loeta
 longe
 lucii
+lucius
 luctuarem
 magia
 majores
@@ -116,6 +122,8 @@ mater
 me
 meo
 metamorphoses
+metamorphosie
+metamorphosis
 meus
 milesius
 nec
@@ -131,8 +139,9 @@ nomme
 non
 novella
 nox
+of
 omnes
-orbe
+orb
 panibus
 peremptor
 personae
@@ -160,7 +169,7 @@ quod
 quorsum
 reapse
 relata
-riche
+rich
 roseum
 russea
 sarcinam
@@ -183,6 +192,8 @@ suspendam
 tamen
 terram
 teste
+the
+thracia
 trunca
 tune
 ung

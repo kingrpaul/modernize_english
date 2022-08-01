@@ -1,3 +1,5 @@
+a laske, ''. diarrhea
+a-making, ''
 abhominable, abominable
 abhomination, abomination
 abhorre, abhor
@@ -5,6 +7,8 @@ aboundance, abundance
 aboundantly, abundantly
 abstaine, abstain
 accesse, access
+accompt, ''
+accompted, ''
 accustome, accustom
 accustometh, ''
 acrosse, across
@@ -16,6 +20,7 @@ afarre, afar
 affirme, affirm
 affirmeth, ''
 againe, again
+'a God's name', '', in God's name
 aire, air
 ake, ache
 aked, ached
@@ -32,6 +37,7 @@ annointed, anointed
 answere, answer
 antient, ancient
 antients, ancients
+apayed, ''
 apparell, apparel
 appeare, appear
 appeareth, ''
@@ -45,11 +51,16 @@ arived, arrived
 arme, arm
 armes, arms
 arrowes, arrows
+asinall, ''
+askd, asked
 aske, ask
 asleepe, asleep
 assaile, assail
 assayle, assail
-Asse, Ass
+asse, ass
+assmbly, assembly
+asswage, assuage
+astonyed, astounded
 atcheived, achieved
 atchieved, achieved
 attaine, attain
@@ -68,17 +79,23 @@ ayding, aiding
 ayre, air
 backe, back
 backes, backs
+baine, bain
 balme, balm
+bandogges, bandogs, vicious guard dogs
+banke, bank
 banket, banquet
 bankets, banquets
 banketting, banqueting
 banquetting, banqueting
-barke, bark
+barbary, ''
+barke, bark, rowboat
 barly, barley
 barne, barn
 barraine, barren
+barrettors, barretors
 bason, basin
 battell, battle
+baynes, baines
 beanes, beans
 beare, bear
 beares, bears
@@ -102,7 +119,10 @@ beholdeth, ''
 beleefe, belief
 beleeve, believe
 beleeved, believed
+belling, '', making bell-shaped
 benigne, benign
+bepissed, ''
+bespred, bespread
 bestaill, bestial
 bestoweth, ''
 betokeneth, ''
@@ -113,9 +133,11 @@ bewayle, bewail
 biere, bier
 bignesse, bigness
 binde, bind
+binne, bin
 blacke, black
 blewish, bluish
 blindnes, blindness
+blindnese, blindness
 blindnesse, blindness
 blisse, bliss
 bloud, blood
@@ -136,6 +158,7 @@ bord, board
 bosome, bosom
 bottels, bottles
 bottome, bottom
+boughes, boughs
 boulsters, bolsters
 bowe, bow
 bowes, bows
@@ -146,7 +169,9 @@ branne, bran
 brasse, brass
 breake, break
 breakefast, breakfast
+breakr, breaker
 brest, breast
+brier, '', alterate form for briar
 brightnesse, brightness
 bringe, bring
 bringest, ''
@@ -159,7 +184,7 @@ broyling, broiling
 bryers, briers
 brymstone, brimstone
 bucke, buck
-buffetings, buffetings
+buffetings, ''
 buffetted, buffeted
 buier, buyer
 buiers, buyiers
@@ -167,7 +192,7 @@ bulles, bulls
 burgen, burgeon
 buriall, burial
 burne, burn
-burneth, burns
+burneth, ''
 busie, busy
 businesse, business
 buttockes, buttocks
@@ -191,10 +216,12 @@ carraine, carrion
 carrie, carry
 carryed, carried
 cary, carry
+castell, castle
 casteth, ''
 causeth, ''
 cavellations, cavillations
 caverne, cavern
+caytiffe, caitiff
 celestiall, celestial
 centaures, centaurs
 certaine, certain
@@ -205,6 +232,7 @@ chamberlaine, chamberlain
 chapell, chapel
 charme, charm
 charmes, charms
+chasse, '', casket
 chast, chaste
 chastitie, chastity
 cheapned, cheapened
@@ -214,6 +242,7 @@ chickin, chicken
 chiefe, chief
 childishnesse, childishness
 childrens, children's
+choller, choler
 chooseth, ''
 choppe, chop
 christall, crystal
@@ -238,6 +267,7 @@ climed, climbed
 cloake, cloak
 cloakes, cloaks
 cloked, cloaked
+cloutes, cloths
 clubbes, clubs
 coale, coal
 coate, coat
@@ -246,11 +276,12 @@ cocke, cock
 cockes, cocks
 cofers, coffers
 colledge, college
+combred, cumbered
 comelinesse, comeliness
 comly, comely
 commandement, commandment
 commandements, commandments
-commandeth, commands
+commandeth, ''
 commaund, command
 commaunded, commanded
 commaundement, commandement
@@ -261,16 +292,18 @@ commited, committed
 commonweale, commonweal
 companie, company
 compasse, compass
-compelleth, compells
+compelleth, ''
 complaine, complain
 conceale, conceal
+confessd, confessed
 confesse, confess
 confirme, confirm
 contayning, containing
 contemme, condemn
 contemne', condemn
-contemnest, contemnest       ****
-continency, continence       ****
+contemnest, contemnest
+continencie, continency
+continency, continence
 continuall, continual
 conveniable, convenable
 conversent, conversant
@@ -279,9 +312,11 @@ coopyes, copies
 corne, corn
 corpes, corpse
 cosin, cousin
-coucheth, couches
+cosses, kisses
+coucheth, '', bow down
 counsailed, counselled
 counsell, counsel
+counterpoyson, counterpoison
 countrey, country
 countreyes, countries
 countreys, countries
@@ -300,7 +335,7 @@ crie, cry
 crowne, crown
 crownes, crowns
 cruell, cruel
-cruellnesse, cruelty          ****
+cruellnesse, cruelty
 crueltie, cruelty
 cryed, cried
 cryes, cries
@@ -309,7 +344,7 @@ cudgill, cudgel
 cupboord, cupboard
 curiositie, curiosity
 curtesie, courtesy
-custome, custom
+custome, ''
 customes, customs
 cypresse, cypress
 daies, days
@@ -322,6 +357,9 @@ darest, ''
 darke, dark
 darknes, darkness
 darknesse, darkness
+dastard-like, ''
+dastardness, ''
+dastardnesse, dastardness
 dayes, days
 dayse, days
 deale, deal
@@ -339,7 +377,7 @@ deforme, deform
 delaied, delayed
 delecates, delicates
 delightes, delights
-delighteth, delights
+delighteth, ''
 delightfull, delightful
 demaunded, demanded
 demaunding, demanding
@@ -348,7 +386,7 @@ denie, deny
 denne, den
 dennes, dens
 denyed, denied
-departeth, departs
+departeth, ''
 desart, desert
 descendest, ''
 deservest, ''
@@ -364,10 +402,11 @@ devoure, devour
 diademe, diadem
 diddest, ''
 diffamed, defamed
-difficill, difficult           ****
+difficill, difficult
 dimme, dim
 dismembred, dismembered
 dispossesse, dispossess
+dissimuling, dissembling
 disturbe, disturb
 divin, divine
 doctours, doctors
@@ -406,8 +445,12 @@ earneth, ''
 easie, easy
 eate, eat
 eateth, ''
+eftsoone, ''
+eftsoones, ''
 egge, egg
 eies, eyes
+elderman, ''
+emboughings, ''
 embracest, ''
 emperour, emperor
 emperours, emperors
@@ -415,14 +458,16 @@ empoysoned, empoisoned
 emptie, empty
 enchantresse, enchantress
 enchauntresse, enchantress
+encountereth, ''
 encountreth, ''
 encrease, increase
 encreased, increased
 encroch, encroach
 endevored, endeavored
 enemie, enemy
-enfastned, enfastened              ****
+enfastned, enfastened
 enforceth, ''
+engraven, ''
 enterlaced, interlaced
 entertaine, entertain
 enterynge, entering
@@ -446,6 +491,7 @@ everie, every
 evill, evil
 excell, excel
 excellencie, excellency
+excusation, ''
 expell, expel
 expresse, express
 extendeth, ''
@@ -460,13 +506,13 @@ faile, fail
 faineth, ''
 faintnesse, faintness
 faire, fair
-faireth, fairs
+faireth, ''
 fairnesse, fairness
 faithfull, faithful
 faithfulnes, faithfulness
 falsly, falsely
 fancie, fancy
-fancieth, fancies
+fancieth, ''
 farre, far
 fatall, fatal
 favoureth, ''
@@ -481,6 +527,7 @@ feele, feel
 feete, feet
 feined, feigned
 feining, feigning
+feiry, fiery
 fel, fell
 felicitie, felicity
 fellony, felony
@@ -530,7 +577,7 @@ franke, frank
 fruitfull, fruitful
 funerall, funeral
 gaine, gain
-gainest, gain
+gainest, ''
 gallowes, gallows
 gaole, gaol
 gard, guard
@@ -589,7 +636,7 @@ halfe, half
 halfepence, halfpence
 handes, hands
 hapned, happened
-hapneth, happeneth   *****
+hapneth, happeneth
 happeneth, ''
 harme, harm
 harmes, harms
@@ -609,7 +656,7 @@ hearbes, herbes
 hearbs, herbs
 heardsman, herdsman
 heare, hear
-hearest, hear
+hearest, ''
 heareth, ''
 heate, heat
 hee, he
@@ -619,33 +666,35 @@ heeles, heels
 heere, here
 heire, heir
 helpe, help
-helpest, help
+helpest, ''
 hennes, hens
 herbe, herb
 herbes, herbs
+hew, hue
 heynous, heinous
 hiew, hue
 high-shooes, high-shoes
 hilles, hills
 hils, hills
 himselfe, himself
-hinde, hind
+hinde, hind, adult female red deer
 hisse, hiss
 historie, history
 hogge, hog
-holdeth, holds
+holdeth, ''
 honney, honey
 honourably, honorably
 hony, honey
 hoofe, hoof
-hoofes, hooves       *****
+hoofes, hooves
 hookes, hooks
-hopest, hope
-hopeth, hopes
+hopest, ''
+hopeth, ''
 hore-frost, hoarfrost
 horne, horn
 hornes, horns
 horsebacke, horseback
+horsemills, horse mills, 'from wikipedia'
 hory, horry
 hostesse, hostess
 houre, hour
@@ -662,7 +711,7 @@ imbracing, embracing
 immediatelie, immediately
 immediatly, immediately
 immortall, immortal
-impatiencie, impatience          *****
+impatiencie, impatience
 impatiency, impatience
 importunitie, importunity
 impoysoned, empoisoned
@@ -684,8 +733,9 @@ ingender, engender
 ingendered, engendered
 ingraven, engraven
 ingrossed, engrossed
-inhabitest, inhabit
-inhabiteth, inhabits
+inhabitest, ''
+inhabiteth, ''
+inheretrix, inheritrix
 inheritour, inheritor
 initiall, initial
 inke, ink
@@ -694,7 +744,7 @@ innocencie, innocence
 insolencie, insolency
 inspiration1, inspirationa1
 intangled, entangled
-intangleth, entangles
+intangleth, entangleth
 intende, intend
 intendeth, ''
 interiour, interior
@@ -702,9 +752,10 @@ intersparsed, interspersed
 intised, enticed
 intrailes, entrailes
 intrals, entrails
+intreat, entreat
 intreate, intreat
 inventeth, ''
-invigilant, unvigilant   ****
+invigilant, unvigilant
 invironed, environed
 iustice, justice
 ivie, ivy
@@ -741,7 +792,7 @@ kisseth, ''
 kitchin, kitchen
 knocke, knock
 knockt, knocked
-knowest, know
+knowest, ''
 knoweth, ''
 knowne, known
 knowst, ''
@@ -754,17 +805,18 @@ lamenesse, lameness
 lampe, lamp
 lancknesse, lankness
 lanternes, lanterns
-laugheth, laughs
+laugheth, ''
 lawfull, lawful
 lawlesse, lawless
 lawne, lawn
 lawrel, laurel
 lawrell, laurel
 layd, laid
-layeth, lays
+layeth, ''
 leade, lead
 leape, leap
 learne, learn
+leese, lose
 legge-harnesse, leg-harness
 legges, legs
 lesse, less
@@ -773,6 +825,7 @@ libell, libel
 liberall, liberal
 lieth, ''
 lievtenant, lieutenant
+life time, lifetime
 likenesse, likeness
 lilly, lily
 limbes, limbs
@@ -799,7 +852,7 @@ lucke, lucke
 luxurie, luxury
 lycense, license
 madde, mad
-madest, made
+madest, ''
 madnesse, madness
 magicall, magical
 magick, magic
@@ -808,6 +861,8 @@ magnificencie, magnificence
 maide, maid
 maine, main
 maintaine, maintain
+maisters, masters
+maistresse, mistress
 maketh, ''
 maladie, malady
 malitious, malicious
@@ -824,11 +879,16 @@ marvailous, marvelous
 marveilously, marvelously
 marvell, marvel
 marvellously, marvelously
+masties, ''
 mastifes, mastiffs
 materiall, material
+maunger, manger
+maurell, mantle
 mayd, maid
 mayden, maiden
+mayst, '', 'old for may'
 meane, mean
+meanely, meanly
 meanes, means
 meaneth, ''
 meate, meat
@@ -845,15 +905,16 @@ memorie, memory
 mens, men's
 mercifull, merciful
 merite, merit
-metamorphosie, metamorphosis   ****
+metamorphosie, metamorphosis
 mettal, metal
 middest, ''
 mightest, ''
 mightie, mighty
+milhouse, millhouse
 milke, milk
 minde, mind
 mindes, minds
-mindeth, minds
+mindeth, ''
 mindfull, mindful
 ministery, ministry
 ministred, ministered
@@ -861,6 +922,7 @@ ministrie, ministry
 ministring, ministering
 mischiefe, mischief
 mischiefes, mischiefs
+miserablest, ''
 miserie, misery
 mistery, mystery
 mistres, mistress
@@ -879,7 +941,7 @@ mountaine, mountain
 mountaines, mountains
 mouthes, mouths
 moystened, moistened
-mulettour, muleteer       *******
+mulettour, muleteer
 murdred, murdered
 murtherer, murderer
 murtherers, murderers
@@ -911,15 +973,17 @@ nosethrilles, nostrils
 nosethrils, nostrils
 nosthrils, nostrils
 notifie, notify
-nourishest, nourish
-nourisheth, nourishes
+nource, nurse
+nourishest, ''
+nourisheth, ''
+nourse, nurse
 now adayes, nowadays
 now-adayes, nowadays
 noynted, annointed
 noyse, noise
 noysome, noisome
 numbred, numbered
-O, Oh                    ******
+O, Oh
 oake, oak
 oathes, oaths
 obeied, obeyed
@@ -941,6 +1005,7 @@ oughtest, ''
 ougly, ugly
 outragious, outrageous
 outwayes, outways
+outways, ''
 over-passe, over-pass
 overtooke, overtook
 owle, owl
@@ -956,9 +1021,9 @@ paied, paid
 paine, pain
 painefull, painful
 paines, pains
+painfull, painful
 painte, paint
 paire, pair
-paistre, pastry
 pallace, palace
 palme, palm
 panch, paunch
@@ -976,7 +1041,7 @@ payd, paid
 paynes, pains
 pearce, pierce
 pearles, pearls
-peason, peas           *********
+peason, peasen
 peeces, pieces
 penall, penal
 pennie, penny
@@ -984,14 +1049,16 @@ peny, penny
 perceiveth, ''
 perfectnesse, perfectness
 perhappes, perhaps
+periles, perils
 perill, peril
 perilles, perils
 perillous, perilous
 perpetuall, perpetual
 persever, persevere
+persuadeth, ''
 perswade, persuade
 perswaded, persuaded
-perswadeth, persuades
+perswadeth, ''
 perswading, persuading
 perswasion, persuasion
 phisitian, physician
@@ -1003,7 +1070,7 @@ picke, pick
 pigge, pig
 pillowes, pillows
 pismares, pismires
-pisse, pisse
+pisse, piss
 pitifull, pitiful
 pitiously, piteously
 pitteously, piteously
@@ -1016,6 +1083,7 @@ pittiously, piteously
 pitty, pity
 plaine, plain
 plainely, plainly
+plainr, plainer
 playsters, plasters
 pleasantnes, pleasantness
 pleasantnesse, pleasantness
@@ -1025,6 +1093,7 @@ plyed, plied
 pompe, pomp
 poore, poor
 poorely, poorly
+possessd, possessed
 possesse, possess
 povertie, poverty
 poynt, point
@@ -1035,18 +1104,21 @@ praier, prayer
 praiers, prayers
 prankes, pranks
 pratling, prattling
-prayeth, prays
+prayeth, ''
 prayse, praise
+prease, press
 preferre, prefer
 presse, press
-presumest, presume
+presumest, ''
 pretious, precious
 pretiously, preciously
 prettie, pretty
 prevaile, prevail
 prevayled, prevailed
+preyes, prize
 pricke, prick
 principall, principal
+principallest, principalest
 privitie, privity
 processe, process
 profer, proffer
@@ -1060,19 +1132,19 @@ prophecier, prophesier
 prophesie, prophesy
 prostrat, prostrate
 proverbe, proverb
-providest, provide
+providest, ''
 provinciall, provincial
 prowesse, prowess
-prudency, prudence
+prudency, ''
 pryed, pried
 pryntinge, printing
 publike, public
 publique, public
-purchaseth, purchases
+purchaseth, ''
 purifie, purify
-pursueth, pursues
+pursueth, ''
 pursuite, pursuit
-puttest, put
+puttest, ''
 quaile, quail
 quayle, quail
 queane, queen
@@ -1091,18 +1163,20 @@ ransackt, ransacked
 ransome, ransom
 ratled, rattled
 ratling, rattling
+rayled, railed
 rayment, raiment
 reade, read
 readie, ready
 realmes, realms
 reape, reap
-reapse, reaps
+reapse, ''
 reasone, reason
 recevyd, received
 reckened, reckoned
 reclaime, reclaim
 redeeme, redeem
 redresse, redress
+refraind, refrained
 refraine, refrain
 refusall, refusal
 regall, regal
@@ -1130,12 +1204,11 @@ repente, repent
 repenteth, ''
 represse, repress
 reproachfull, reproachful
-requireth, requires
-resembleth, resembles
+requireth, ''
+resembleth, ''
 resemling, resembling
 respit, respite
 resteth, ''
-restless, restlesse
 restlesse, restless
 restraine, restrain
 restrainest, ''
@@ -1145,7 +1218,7 @@ returne, return
 returneth, ''
 retyre, retire
 reveale, reveal
-riche, riche
+riche, rich
 ridde, rid
 ripenesse, ripeness
 roade, road
@@ -1160,10 +1233,11 @@ rubbell, rubble
 ruggednesse, ruggedness
 ruine, ruin
 runne, run
-runnest, run
-runneth, runs
+runnest, ''
+runneth, ''
 rusticall, rustical
 rusticke, rustic
+ryot, riot
 sacke, sack
 sackes, sacks
 sadnesse, sadness
@@ -1174,7 +1248,7 @@ sappe, sap
 satisfie, satisfy
 sawce, sauce
 sayd, said
-sayth, says
+sayth, saith
 scarre, scar
 scarse, scarce
 scholler, scholar
@@ -1188,7 +1262,7 @@ scowre, scour
 scowred, scoured
 scurfe, scurf
 seale, seal
-searcheth, searches
+searcheth, ''
 seargants, sergeants
 seate, seat
 seaven, seven
@@ -1208,11 +1282,13 @@ senatours, senators
 sence, sense
 sences, senses
 sensuall, sensual
+servil, servile
 servingmaids, serving-maids
 setteth, ''
-shaked, shook                  **********
+shaked, ''
 shal, shall
-shamefastnes, shamefacedness   **********
+shamefastnes, shamefacedness
+shamefastness, ''
 shamefastnesse, shamefacedness
 sharpe, sharp
 sharpely, sharply
@@ -1222,6 +1298,7 @@ sheep-coats, sheepcotes
 sheepe, sheep
 sheepehooke, sheepehook
 sheepheard, shepherd
+sheephook, ''
 sheffes, sheafs
 shepheard, shepherd
 shepheards, shepherds
@@ -1234,7 +1311,7 @@ shorne, shorn
 shortned, shortened
 shoulde, should
 showes, shows
-showeth, shows
+showeth, ''
 showt, shout
 shunne, shun
 shutte, shut
@@ -1257,7 +1334,7 @@ skinnes, skins
 slacknesse, slackness
 slaine, slain
 slandred, slandered
-slayeth, slays
+slayeth, ''
 sleepe, sleep
 sleepeth, ''
 slendernesse, slenderness
@@ -1304,6 +1381,7 @@ sowre, sour
 soyle, soil
 sparckled, sparkled
 sparrowes, sparrows
+sparsed, ''
 speake, speak
 speare, spear
 speares, spears
@@ -1317,6 +1395,7 @@ spoyl, spoil
 spoyle, spoil
 spoyled, spoiled
 spred, spread
+sprots, sprats
 spurne, spurn
 staffe, staff
 staied, stayed
@@ -1327,6 +1406,7 @@ starke, stark
 starres, stars
 steale, steal
 sterill, sterile
+steven, ''
 sticke, stick
 stiffle, stifle
 stil, still
@@ -1348,8 +1428,9 @@ streate, street
 streete, street
 streetes, streets
 streined, strained
+strid, ''
 striken, stricken
-stroken, stricken    *******
+stroken, stricken
 strooke, struck
 stuffe, stuff
 subterene, subterrene
@@ -1358,7 +1439,7 @@ subtlel, subtle
 subtlenesse, subtleness
 successe, success
 successours, successors
-succorest, succor
+succorest, ''
 suddaine, sudden
 suddainly, suddenly
 suffereth, ''
@@ -1370,20 +1451,23 @@ superiour, superior
 supernall, supernal
 suppe, sup
 suppresse, suppress
+surplesses, surplices
 suspition, suspicion
 sustaine, sustain
 susteined, sustain
 sweare, swear
+sweate, sweat
 sweete, sweet
 sweetnesse, sweetness
 swel, swell
 swiftnesse, swiftness
 sybel, sibyl
+syrens, sirens
 taile, tail
 tailes, tails
-takest, take
+takest, ''
 talke, talk
-tardity, tardiness
+tardity, ''
 taried, tarried
 taske, task
 tast, taste
@@ -1395,6 +1479,7 @@ temperat, temperate
 tendeth, ''
 tenne, ten
 terme, term
+terren, terrene
 terrour, terror
 testifie, testify
 testimonie, testimony
@@ -1409,7 +1494,7 @@ therof, thereof
 theron, thereon
 therwithall, therewithal
 theves, thieves
-thicke, thicke
+thicke, thick
 thinke, think
 thinkest, ''
 thinketh, ''
@@ -1437,8 +1522,10 @@ traind, trained
 traiterous, traitorous
 traitour, traitor
 transforme, transform
-transformeth, transforms
+transformeth, ''
 transitorie, transitory
+trappers, '', 'horse ornament'
+trappes, trapps
 travaile, travail
 travell, travel
 trayterous, traitorous
@@ -1455,7 +1542,7 @@ tryed, tried
 turfes, turfs
 turnd, turned
 turne, turn
-turneth, turns
+turneth, ''
 turn’d, turned
 tuskes, tusks
 twise, twice
@@ -1466,6 +1553,7 @@ unattyred, unattired
 unbrideled, unbridled
 uncertaine, uncertain
 unchast, unchaste
+uncurtesie, uncurtesy
 undresse, undress
 unequall, unequal
 unfaithfull, unfaithful
@@ -1476,22 +1564,26 @@ universall, universal
 unknowne, unknown
 unlawfull, unlawful
 unlesse, unless
-unmeasurably, immeasurably
-unneth, unneath
+unlusty, ''
+unmeasurably, ''
+unneth, uneath, 'difficult'
+unneath, uneath, 'difficult'
 unpittifull, unpitiful
-unrayed, unarrayed         ********
+unrayed, unarrayed
 unspeakeable, unspeakable
-untemperance, intemperance
+untemperance, ''
 untill, until
 unwares, unawares
 useth, ''
 usurie, usury
+utricide, ''
 vaile, veil
 vaine, vain
 valiante, valiant
 valleyes, valleys
 vallies, valleys
 vally, valley
+vannes, fans
 veines, veins
 venim, venom
 ventrous, venturous
@@ -1505,7 +1597,8 @@ vessell, vessel
 vestiment, vestment
 vestiments, vestments
 villany, villainy
-virgine, virgin
+virgine, ''
+visards, vizards
 vniversity, university
 voiage, voyage
 voide, voide
@@ -1527,6 +1620,7 @@ watry, watery
 waxe, wax
 wayes, ways
 weake, weak
+weakr, weaker
 weale, weal
 weare, wear
 wearie, weary
@@ -1535,9 +1629,12 @@ weeneth, ''
 weepe, weep
 weeped, wept
 wel, well
+welfavouredly, well-favouredly
 welnigh, well-nigh
+welwiller, well-willer
 wentest, ''
 werest, ''
+wesel, weasel
 wheate, wheat
 wheele, wheel
 whelpes, whelps
@@ -1549,7 +1646,7 @@ wherfore, wherefore
 wherof, whereof
 wherupon, whereupon
 wherwith, wherewith
-wherwithall, wherewithall
+wherwithall, wherewithal
 whippe, whip
 whipps, whips
 wholeome, wholesome
@@ -1559,6 +1656,7 @@ whome, whom
 whorehunting, whore-hunting
 wickednesse, wickedness
 wil, will
+wilfully, '', UK spelling of willfully
 wilde, wild
 winde, wind
 windes, winds
@@ -1566,6 +1664,7 @@ windowes, windows
 winke, wink
 winne, win
 wisdome, wisdom
+wise-men, wise men
 wisedome, wisdom
 wisemen, wise-men
 withall, withal
@@ -1586,13 +1685,14 @@ wreast, wrest
 wretchednesse, wretchedness
 yeare, year
 yeares, years
-yee, you               ******
+yee, you
 yeeld, yield
 yeelded, yielded
-yeeldest, yieldest     *********
-yeeldeth, yieldeth     *********
+yeeldest, yieldest
+yeeldeth, yieldeth
 yeelding, yielding
 yeere, year
+yieldeth, ''
 yoake, yoke
 yong, young
 youthfull, youthful
@@ -1601,32 +1701,96 @@ youthfulnesse, youthfulness
 yre, ire
 yrked, irked
 yrons, irons
-a-making, ''
-accompt, ''
-accompted, ''
-apayed, ''
-astonyed, astounded         ************
-bandogges, ''
-bepissed, ''
-bespred, bespread            ************
-cloutes, cloths
-counterpoyson, counterpoison ************
-dastard-like, ''
-dastardnesse, dastardness    ************
-dissimuling, dissembling     ************
-eftsoone, ''
-eftsoones, ''
-elderman, ''
-excusation, ''
-leese, lose                  ************
-maisters, masters 
-masties, mastffs
-miserablest, ''
-sparsed, ''
-uncurtesie, uncurtesy        ************
-utricide, ''                 ************
-welfavouredly, wellfavouredly ************
-wesel, ''
-a laske, ''
-choller, choler               *******
-unlusty, ''
+krippins, '', 'neologism derived from "crippe"?'
+sarces, '', 'leather for sifting?'
+swathell, '', 'middle English "bandage"'
+cupidoes, '', "neologism meaning cherubs" 
+aspishly, '', 'like a venomous snake'
+aspis, '', 'venomous snake'
+apaid, '', 'satisfied'
+laske, '', 'diarrhea'
+fallets, '', 'neologism salad vegetables'
+jeasts, jests
+bains, baines
+hel, hell
+bloodie, bloody
+quinquenuall, quinquennial
+hoare, hoar
+sives, sieves
+lucious, lucius
+physicke, physic, 'medicine'
+jote, jot, 'the least bit'
+mattens, mattins, 'morning prayer'
+manuell, manual
+provised, prevised, 'foresaw'
+unbrast, unbraced, 'unfastened'
+unlaste, unlaced
+javelings, javelins
+assy, assie
+faining, feigning
+fained, feigned
+ill favoured, ill-favored
+high way, highway
+lead, led
+advise, advice
+harken, hearken
+twaine, twain
+some body, somebody
+almes, alms
+standers by, standers-by
+well advised, well-advised
+caried, carried
+some thing, something
+flower, flour
+grey hounds, greyhounds
+bake house, bakehouse
+blew, blue
+stalest, stealest
+hind, '', female deer ie doe
+finely, finally
+stiffle, stifle
+scene, seen
+royster, roister, reveler
+road, rode
+seller, cellar
+leasings, '', lies
+junkets, '', sweets
+pasties, '', british empanadas
+fantasie, fantasy
+hast, haste
+a foot, afoot
+trill, ''. 'trickle'
+spring time, springtime
+now a days, nowadays
+stale, stole
+ware, wore
+sallet, '', 'helmet'
+vergers, '', 'staff bearers'
+bole, bowl
+specially, ''
+reliques, relics
+sea cost, seacoast
+what soever, whatsoever
+verjuice, '', 'sour juice of unripe fruit'
+Hoe, ho
+desiredst, desired
+monished, ''
+cope, '', 'clerical cloak'
+stole, '', 'clerical scarf'
+indued, endued, 'endowed'
+cunny, '', 'rabbit'
+nops, '', 'spider?'
+strucken, stricken
+plane tree, '', 'sycamore'
+then, than, 'by context'
+dissentions, dissensions
+progenies, progenies'
+blood sucker, bloodsucker
+flamy, '', firelike
+fardels, '', fourths ie quarters
+paces, '', journeys
+hereon, '', on this place
+bewray, '', expose
+gree, '', superiority in combat
+marry, '', interjection ie indeed
+mary, marry, believe to be a misspelling

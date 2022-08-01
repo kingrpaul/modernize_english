@@ -24,7 +24,7 @@ me
 milo
 mon
 ne
-noir.
+noir
 on
 paistre
 par
@@ -41,5 +41,4 @@ taverniere
 toutfoys
 vend
 voulurent
- 
 ⁠…
